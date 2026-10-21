@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/passive-optical-access-network-explainer/
 
+Repository: https://github.com/mizcausevic-dev/passive-optical-access-network-explainer
+
 ## What this is
 
 An interactive anatomy plate for Passive Optical Access Network. Play, scrub, or jump the five stages. The same frame always draws the same picture.
